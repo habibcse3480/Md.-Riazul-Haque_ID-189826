@@ -1,0 +1,17 @@
+.new-section{
+    background: url("../images/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 1000px;
+    color: white;
+    height: 450px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.bold{
+    font-weight: bold;
+
+}
